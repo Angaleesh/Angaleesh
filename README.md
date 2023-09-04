@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Angaleeshwara Gandhi</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
+<h3 align="center">A passionate Fullstack developer from Coimbatore</h3>
 
 - 🔭 I’m currently working at [Avanexa Technology](https://avanexa.com/)
 
