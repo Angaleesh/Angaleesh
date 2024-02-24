@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻 All of my projects are available at [123](123)
+- 👨‍💻 All of my projects are available at [Angaleesh](angaleesh.vercel.app)
 
 - 📫 How to reach me **agr.angaleesh@gmail.com**
 
