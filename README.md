@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Angaleeshwara Gandhi</h1>
 <h3 align="center">A passionate Fullstack developer from Coimbatore</h3>
 <img align="right" alt="coding" src="https://cdn.dribble.com/users/1162077/screenshots3848914/programmer.gif">
-- 🔭 I’m currently working at [Avanexa Technology](https://avanexa.com/)
+- 🔭 I’m currently working at [Ellucian](https://ellucian.com/)
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **Mobile APP**
 
 - 👨‍💻 All of my projects are available at [Angaleesh](http://angaleesh.vercel.app)
 
